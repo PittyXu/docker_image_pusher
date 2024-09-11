@@ -1,6 +1,32 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+
+filebrowser/filebrowser:latest
+filebrowser/filebrowser:v2.30.0
+netroby/alpine-cow:latest
+redis:latest
+redis:5.0.13
+redis/redisinsight:latest
+seataio/seata-server:1.8.0
+seataio/seata-server:1.5.2
+mariadb:latest
+mariadb:10.7.1
+mysql:5.7
+phpmyadmin/phpmyadmin:latest
+gitea/gitea:1.22.1-rootless
+postgres:15
+docker:dind
+gitea/act_runner:latest
+kylemanna/openvpn:2.4
+busybox:1.29
+mongo:latest
+mongo:4.4.0
+nacos/nacos-server:v2.1.1
+eclipse-temurin:17.0.12_7-jdk-noble
+eclipse-temurin:17.0.12_7-jre-noble
+eclipse-temurin:11.0.24_8-jdk-noble
+eclipse-temurin:11.0.24_8-jre-noble
