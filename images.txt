@@ -17,7 +17,7 @@ mariadb:latest
 mariadb:10.7.1
 mysql:5.7
 phpmyadmin/phpmyadmin:latest
-gitea/gitea:1.22.1-rootless
+gitea/gitea:1.22.2-rootless
 postgres:15
 docker:dind
 gitea/act_runner:latest
