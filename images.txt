@@ -6,7 +6,9 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
+jenkins/jenkins:latest
 
+jenkins/jenkins:lts
 catthehacker/ubuntu:act-latest
 catthehacker/ubuntu:full-latest
 node:16-bullseye
