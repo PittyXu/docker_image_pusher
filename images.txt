@@ -9,8 +9,8 @@ jenkins/jenkins:latest
 jenkins/jenkins:lts
 catthehacker/ubuntu:act-latest
 catthehacker/ubuntu:full-latest
-node:16-bullseye
-node:21-bookworm
+#node:16-bullseye
+#node:21-bookworm
 nginx:alpine
 filebrowser/filebrowser:latest
 #netroby/alpine-cow:latest
@@ -23,9 +23,9 @@ mariadb:latest
 #mysql:5.7
 phpmyadmin/phpmyadmin:latest
 phpmyadmin/phpmyadmin:fpm-alpine
-gitea/gitea:1.22.3-rootless
-postgres:15
-postgres:15.2-alpine
+gitea/gitea:1.22.4-rootless
+#postgres:15
+#postgres:15.2-alpine
 docker:dind
 gitea/act_runner:latest
 #kylemanna/openvpn:2.4
