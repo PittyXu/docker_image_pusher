@@ -9,8 +9,8 @@ gitea/gitea:1.22.4-rootless
 docker:dind
 gitea/act_runner:latest
 busybox:latest
-ffdfgdfg/nps:latest
-ffdfgdfg/npc:latest
+zzqinglei/nps:latest
+zzqinglei/npc:latest
 nginx:alpine
 filebrowser/filebrowser:latest
 redis:latest
