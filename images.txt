@@ -5,12 +5,14 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+yisier1/nps:v0.26.20
+yisier1/npc:v0.26.20
+yisier1/nps:latest
+yisier1/npc:latest
 gitea/gitea:1.22.4-rootless
 docker:dind
 gitea/act_runner:latest
 busybox:latest
-zzqinglei/nps:latest
-zzqinglei/npc:latest
 nginx:alpine
 filebrowser/filebrowser:latest
 redis:latest
