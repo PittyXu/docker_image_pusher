@@ -8,13 +8,14 @@
 eclipse-temurin:17.0.13_11-jdk-noble
 eclipse-temurin:17.0.13_11-jre-noble
 #seataio/seata-server:1.4.2
-gitea/gitea:1.22.6-rootless
+gitea/gitea:latest-rootless
+gitea/gitea:1.23.1-rootless
 docker:dind
 gitea/act_runner:latest
 grafana/grafana:latest
 prom/prometheus:latest
-yisier1/nps:latest
-yisier1/npc:latest
+#yisier1/nps:latest
+#yisier1/npc:latest
 busybox:latest
 nginx:alpine
 filebrowser/filebrowser:latest
