@@ -8,6 +8,7 @@
 #eclipse-temurin:17.0.13_11-jdk-noble
 #eclipse-temurin:17.0.13_11-jre-noble
 #seataio/seata-server:1.4.2
+bytemark/webdav
 gitea/gitea:latest-rootless
 gitea/gitea:1.23.1-rootless
 docker:dind
