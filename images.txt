@@ -5,12 +5,13 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-ollama/ollama:latest
-langgenius/dify-api:0.15.3
-langgenius/dify-web:0.15.3
-infiniflow/ragflow:v0.16.0-slim
-1panel/maxkb:v1.10.0-lts
-pgvector/pgvector:0.7.0-pg15
+langgenius/dify-sandbox:0.2.10
+#ollama/ollama:latest
+#langgenius/dify-api:0.15.3
+#langgenius/dify-web:0.15.3
+#infiniflow/ragflow:v0.16.0-slim
+#1panel/maxkb:v1.10.0-lts
+#pgvector/pgvector:0.7.0-pg15
 
 #eclipse-temurin:17.0.13_11-jdk-noble
 #eclipse-temurin:17.0.13_11-jre-noble
