@@ -5,8 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-milvusdb/milvus:v2.4.21
-milvusdb/milvus
+#milvusdb/milvus:v2.4.21
+#milvusdb/milvus
 #semitechnologies/weaviate:1.19.0
 
 #langgenius/dify-sandbox:0.2.10
@@ -52,6 +52,7 @@ milvusdb/milvus
 #mysql:5.7
 #postgres:15
 #postgres:15.2-alpine
+postgres:15-alpine
 #kylemanna/openvpn:2.4
 #mongo:4.4.0
 #nacos/nacos-server:v2.1.1
