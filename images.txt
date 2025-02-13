@@ -5,7 +5,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-langgenius/dify-sandbox:0.2.10
+semitechnologies/weaviate:1.28.4
+
+#langgenius/dify-sandbox:0.2.10
 #ollama/ollama:latest
 #langgenius/dify-api:0.15.3
 #langgenius/dify-web:0.15.3
