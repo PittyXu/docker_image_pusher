@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-mongo-express
+#mongo-express
 
 #ubuntu/squid:latest
 
@@ -13,10 +13,10 @@ mongo-express
 #milvusdb/milvus
 #semitechnologies/weaviate:1.19.0
 
+langgenius/dify-api:1.0.0
+langgenius/dify-web:1.0.0
 #langgenius/dify-sandbox:0.2.10
 #ollama/ollama:latest
-#langgenius/dify-api:0.15.3
-#langgenius/dify-web:0.15.3
 #infiniflow/ragflow:v0.16.0-slim
 #1panel/maxkb:v1.10.0-lts
 #pgvector/pgvector:0.7.0-pg15
