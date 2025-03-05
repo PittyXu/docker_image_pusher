@@ -16,6 +16,8 @@
 langgenius/dify-api:1.0.0
 langgenius/dify-web:1.0.0
 #langgenius/dify-sandbox:0.2.10
+langgenius/dify-plugin-daemon:0.0.3-local
+
 #ollama/ollama:latest
 #infiniflow/ragflow:v0.16.0-slim
 #1panel/maxkb:v1.10.0-lts
