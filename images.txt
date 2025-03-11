@@ -13,10 +13,10 @@
 #milvusdb/milvus
 #semitechnologies/weaviate:1.19.0
 
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
+#langgenius/dify-api:1.0.0
+#langgenius/dify-web:1.0.0
 #langgenius/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.3-local
+langgenius/dify-plugin-daemon:main-local
 
 #ollama/ollama:latest
 #infiniflow/ragflow:v0.16.0-slim
@@ -27,10 +27,10 @@ langgenius/dify-plugin-daemon:0.0.3-local
 #eclipse-temurin:17.0.13_11-jre-noble
 #seataio/seata-server:1.4.2
 #bytemark/webdav
-#gitea/gitea:latest-rootless
-#gitea/gitea:1.23.1-rootless
-#docker:dind
-#gitea/act_runner:latest
+gitea/gitea:latest-rootless
+gitea/gitea:1.23.5-rootless
+docker:dind
+gitea/act_runner:latest
 #grafana/grafana:latest
 #prom/prometheus:latest
 #yisier1/nps:latest
