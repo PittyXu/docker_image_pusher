@@ -5,6 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+infiniflow/ragflow:v0.17.2-slim
+
 #mongo-express
 
 #ubuntu/squid:latest
@@ -13,10 +15,10 @@
 #milvusdb/milvus
 #semitechnologies/weaviate:1.19.0
 
-langgenius/dify-api:1.0.1
-langgenius/dify-web:1.0.1
+#langgenius/dify-api:1.0.1
+#langgenius/dify-web:1.0.1
 #langgenius/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.4-local
+#langgenius/dify-plugin-daemon:0.0.4-local
 
 #ollama/ollama:latest
 #infiniflow/ragflow:v0.16.0-slim
