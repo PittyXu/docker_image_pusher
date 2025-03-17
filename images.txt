@@ -5,7 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-infiniflow/ragflow:v0.17.2-slim
+#infiniflow/ragflow:v0.17.2-slim
+infiniflow/infinity:v0.6.0-dev3
 
 #mongo-express
 
