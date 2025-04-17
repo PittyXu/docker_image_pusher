@@ -1,3 +1,12 @@
+sonarqube:9-community
+langgenius/dify-api:1.2.0
+langgenius/dify-web:1.2.0
+langgenius/dify-plugin-daemon:0.0.7-local
+gitea/gitea:latest-rootless
+gitea/gitea:1.23.7-rootless
+docker:dind
+gitea/act_runner:latest
+
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -16,10 +25,7 @@
 #milvusdb/milvus
 #semitechnologies/weaviate:1.19.0
 
-langgenius/dify-api:1.2.0
-langgenius/dify-web:1.2.0
 #langgenius/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.7-local
 
 #ollama/ollama:latest
 #infiniflow/ragflow:v0.16.0-slim
@@ -30,10 +36,6 @@ langgenius/dify-plugin-daemon:0.0.7-local
 #eclipse-temurin:17.0.14_7-jre-noble
 #seataio/seata-server:1.4.2
 #bytemark/webdav
-gitea/gitea:latest-rootless
-gitea/gitea:1.23.7-rootless
-docker:dind
-gitea/act_runner:latest
 #grafana/grafana:latest
 #prom/prometheus:latest
 #yisier1/nps:latest
@@ -65,3 +67,4 @@ gitea/act_runner:latest
 #kylemanna/openvpn:2.4
 #mongo:4.4.0
 #nacos/nacos-server:v2.1.1
+
