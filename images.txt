@@ -1,7 +1,7 @@
-sonarqube:9-community
-langgenius/dify-api:1.2.0
-langgenius/dify-web:1.2.0
-langgenius/dify-plugin-daemon:0.0.7-local
+#sonarqube:9-community
+langgenius/dify-api:1.3.1
+langgenius/dify-web:1.3.1
+langgenius/dify-plugin-daemon:0.0.9-local
 gitea/gitea:latest-rootless
 gitea/gitea:1.23.7-rootless
 docker:dind
