@@ -1,15 +1,16 @@
 #sonarqube:9-community
-dongdongking008/cow:0.9.22
-ppcelery/cow:0.9.9
-langgenius/dify-api:1.4.1
-langgenius/dify-web:1.4.1
-langgenius/dify-plugin-daemon:0.1.1-local
-langgenius/dify-sandbox:0.2.12
-gitea/gitea:latest-rootless
-gitea/gitea:1.23.8-rootless
-docker:dind
-gitea/act_runner:latest
 
+#langgenius/dify-api:1.4.1
+#langgenius/dify-web:1.4.1
+#langgenius/dify-plugin-daemon:0.1.1-local
+#langgenius/dify-sandbox:0.2.12
+#gitea/gitea:latest-rootless
+#gitea/gitea:1.23.8-rootless
+#docker:dind
+#gitea/act_runner:latest
+bitnami/kubectl:latest
+#dongdongking008/cow:0.9.22
+#ppcelery/cow:0.9.9
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
