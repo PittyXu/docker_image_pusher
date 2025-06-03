@@ -1,9 +1,12 @@
 #sonarqube:9-community
-langgenius/dify-api:1.3.1
-langgenius/dify-web:1.3.1
-langgenius/dify-plugin-daemon:0.0.9-local
+dongdongking008/cow:0.9.22
+ppcelery/cow:0.9.9
+langgenius/dify-api:1.4.1
+langgenius/dify-web:1.4.1
+langgenius/dify-plugin-daemon:0.1.1-local
+langgenius/dify-sandbox:0.2.12
 gitea/gitea:latest-rootless
-gitea/gitea:1.23.7-rootless
+gitea/gitea:1.23.8-rootless
 docker:dind
 gitea/act_runner:latest
 
@@ -24,8 +27,6 @@ gitea/act_runner:latest
 #milvusdb/milvus:v2.4.21
 #milvusdb/milvus
 #semitechnologies/weaviate:1.19.0
-
-#langgenius/dify-sandbox:0.2.10
 
 #ollama/ollama:latest
 #infiniflow/ragflow:v0.16.0-slim
